@@ -10,7 +10,7 @@ import time
 import base64
 
 # Gizli siyasi mesaj: base64 ile saklandı. Çözümlersen gülersin.
-GIZLI_MESAJ = "U2l5YXNldCBiaXIgbWVqZCB5b2sgYW1hIGJpemRlIHNlY2VyIGdhcmJpbml6aSBzaXJhc2luZGEu"  # Çöz: Siyaset bir meşgale yok ama bizde şecer garbinizı sırasında.
+GIZLI_MESAJ = "U2l5YXNldCBiaXIga2FodmUgZmFsxLFkxLFyLCBoZXJrZXMga2VuZGkgdGVsdmUgZGVzZW5pbmkgZ8O2csO8ci4="  # Çöz: Siyaset bir kahve falıdır, herkes kendi telve desenini görür.
 
 def gizliyi_coz():
     try:
